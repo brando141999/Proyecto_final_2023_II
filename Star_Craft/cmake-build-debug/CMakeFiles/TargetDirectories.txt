@@ -1,0 +1,3 @@
+C:/Users/brano/CLionProjects/Star_Craft/cmake-build-debug/CMakeFiles/Star_Craft.dir
+C:/Users/brano/CLionProjects/Star_Craft/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/brano/CLionProjects/Star_Craft/cmake-build-debug/CMakeFiles/rebuild_cache.dir

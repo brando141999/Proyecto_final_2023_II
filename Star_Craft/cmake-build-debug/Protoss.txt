@@ -1,0 +1,10 @@
+Arbiter;200;150;1;10;explosivo;10;explosivo;Grande;Volador;
+Archon;10;350;0;30;normal;30;normal;Grande;Terrestre;
+Carrier;300;150;4;48;normal;48;normal;Grande;Volador;
+Corsair;100;80;1;0;-;6;explosivo;Mediano;Volador;
+Templar;80;40;1;40;normal;0;-;Pequeño;Terrestre;
+Dragoon;100;80;1;20;explosivo;20;explosivo;Grande;Terrestre;
+Probe;20;20;0;5;normal;0;-;Pequeño;Terrestre;
+Reaver;100;80;0;125;normal;0;-;Grande;Terrestre;
+Scout;150;100;0;8;normal;28;explosivo;Grande;Volador;
+Zealot;100;60;1;16;normal;0;-;Pequeño;Terrestre;

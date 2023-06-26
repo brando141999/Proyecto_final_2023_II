@@ -1,0 +1,11 @@
+Broodling;30;0;4;normal;0;-;Pequeño;Terrestre;No;
+Devourer;250;2;0;-;25;explosivo;Grande;Volador;No;
+Drone;40;0;5;normal;0;-;Pequeño;Terrestre;No;
+Guardian;150;2;20;normal;0;-;Grande;Volador;No;
+Hydralisk;80;0;10;explosivo;10;explosivo;Mediano;Volador;No;
+Infested;60;0;500;explosivo;0;-;Pequeño;Terrestre;Si;
+Lurker;125;1;20;normal;0;-;Mediano;Terrestre;No;
+Mutalisk;120;0;9;normal;9;normal;Pequeño;Volador;No;
+Scourge;25;0;0;-;110;normal;Pequeño;Volador;Si;
+Ultralisk;400;3;20 ;normal;0;-;Grande;Terrestre;No;
+Zergling;35;0;5;normal;0;-;Pequeño;Terrestre;No;

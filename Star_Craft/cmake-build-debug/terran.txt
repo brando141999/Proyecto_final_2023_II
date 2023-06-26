@@ -1,0 +1,11 @@
+ Battlecruiser;500;3;25;normal;25;normal;grande;volador;
+ Firebat;50;1;16;contusivo;0;-;pequeño;terrestre;
+ Ghost;45;0;10;contusivo;10;contusivo;pequeño;terrestre;
+ Goliath;125;1;12;normal;20;explosivo;grande;terrestre;
+ Marine;40;0;6;normal;6;normal;pequeño;terrestre;
+ Duran;200;2;25;contusivo;25;contusivo;pequeño;terrestre;
+ SCV;60;0;5;normal;0;-;pequeño;terrestre;
+ Tank;150;1;70;explosivo;0;-;grande;terrestre;
+ Valkyrie;200;2;0;-;48;explosivo;grande;volador;
+ Vulture;80;0;20;contusivo;0;-;mediano;terrestre;
+ Wraith;120;0;8;normal;20;explosivo;grande;volador;
